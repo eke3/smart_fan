@@ -1,7 +1,7 @@
-// File: tb_tri_state_buffer.sv
-// Author: Eric Ekey
-// Date: 01/03/2025
-// Description: Testbench for 1-bit tri-state buffer.
+// File:    tb_tri_state_buffer.sv
+// Author:  Eric Ekey
+// Date:    01/03/2025
+// Desc:    Testbench for 1-bit tri-state buffer.
 
 `timescale 1ns / 1ps
 
